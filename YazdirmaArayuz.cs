@@ -49,6 +49,7 @@ namespace BarkodeProjectV2
             dataGridView1.Columns[9].HeaderText = "Sıra Numarası";
             dataGridView1.Columns[10].HeaderText = "Anabilim Kodu";
             dataGridView1.Columns[11].HeaderText = "Yazdırılma Tarihi";
+            label12.Text = Convert.ToString(dataGridView1.RowCount - 1);
 
         }
         public void VeriGetir()
