@@ -1,0 +1,95 @@
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\bin\Debug\SkiaSharp.dll.config
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\bin\Debug\libSkiaSharp.dll
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\bin\Debug\libSkiaSharp.dylib
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\bin\Debug\BarkodeProjectV2.exe.config
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\bin\Debug\BarkodeProjectV2.exe
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\bin\Debug\BarkodeProjectV2.pdb
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\bin\Debug\Neodynamic.SDK.ThermalLabel.WindowsPrinting.dll
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\bin\Debug\SkiaSharp.dll
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\bin\Debug\SkiaSharp.xml
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.csproj.AssemblyReference.cache
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.Form1.resources
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.Properties.Resources.resources
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.csproj.GenerateResource.cache
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.csproj.CoreCompileInputs.cache
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.csproj.CopyComplete
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.exe
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.pdb
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.YazdirmaArayuz.resources
+C:\Users\Onat ÖZÇELİK\Source\Repos\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.YeniKayit.resources
+C:\Users\FBE1\Desktop\BarkodeProjectV2\bin\Debug\SkiaSharp.dll.config
+C:\Users\FBE1\Desktop\BarkodeProjectV2\bin\Debug\libSkiaSharp.dll
+C:\Users\FBE1\Desktop\BarkodeProjectV2\bin\Debug\libSkiaSharp.dylib
+C:\Users\FBE1\Desktop\BarkodeProjectV2\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\FBE1\Desktop\BarkodeProjectV2\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\FBE1\Desktop\BarkodeProjectV2\bin\Debug\BarkodeProjectV2.exe.config
+C:\Users\FBE1\Desktop\BarkodeProjectV2\bin\Debug\BarkodeProjectV2.exe
+C:\Users\FBE1\Desktop\BarkodeProjectV2\bin\Debug\BarkodeProjectV2.pdb
+C:\Users\FBE1\Desktop\BarkodeProjectV2\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\FBE1\Desktop\BarkodeProjectV2\bin\Debug\Neodynamic.SDK.ThermalLabel.WindowsPrinting.dll
+C:\Users\FBE1\Desktop\BarkodeProjectV2\bin\Debug\SkiaSharp.dll
+C:\Users\FBE1\Desktop\BarkodeProjectV2\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\FBE1\Desktop\BarkodeProjectV2\bin\Debug\SkiaSharp.xml
+C:\Users\FBE1\Desktop\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.csproj.AssemblyReference.cache
+C:\Users\FBE1\Desktop\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.YazdirmaArayuz.resources
+C:\Users\FBE1\Desktop\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.Form1.resources
+C:\Users\FBE1\Desktop\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.Properties.Resources.resources
+C:\Users\FBE1\Desktop\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.YeniKayit.resources
+C:\Users\FBE1\Desktop\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.csproj.GenerateResource.cache
+C:\Users\FBE1\Desktop\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.csproj.CoreCompileInputs.cache
+C:\Users\FBE1\Desktop\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.csproj.CopyComplete
+C:\Users\FBE1\Desktop\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.exe
+C:\Users\FBE1\Desktop\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.pdb
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\bin\Debug\SkiaSharp.dll.config
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\bin\Debug\libSkiaSharp.dll
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\bin\Debug\libSkiaSharp.dylib
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\bin\Debug\BarkodeProjectV2.exe.config
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\bin\Debug\BarkodeProjectV2.exe
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\bin\Debug\BarkodeProjectV2.pdb
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\bin\Debug\Neodynamic.SDK.ThermalLabel.WindowsPrinting.dll
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\bin\Debug\SkiaSharp.dll
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\bin\Debug\SkiaSharp.xml
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.csproj.AssemblyReference.cache
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.YazdirmaArayuz.resources
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.Form1.resources
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.Properties.Resources.resources
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.YeniKayit.resources
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.csproj.GenerateResource.cache
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.csproj.CoreCompileInputs.cache
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.csproj.CopyComplete
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.exe
+C:\Users\Onat ÖZÇELİK\Desktop\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.pdb
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\bin\Debug\SkiaSharp.dll.config
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\bin\Debug\libSkiaSharp.dll
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\bin\Debug\libSkiaSharp.dylib
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\bin\Debug\BarkodeProjectV2.exe.config
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\bin\Debug\BarkodeProjectV2.exe
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\bin\Debug\BarkodeProjectV2.pdb
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\bin\Debug\Neodynamic.SDK.ThermalLabel.WindowsPrinting.dll
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\bin\Debug\SkiaSharp.dll
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\bin\Debug\SkiaSharp.xml
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.csproj.AssemblyReference.cache
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.YazdirmaArayuz.resources
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.Form1.resources
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.Properties.Resources.resources
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.YeniKayit.resources
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.csproj.GenerateResource.cache
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.csproj.CoreCompileInputs.cache
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.csproj.CopyComplete
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.exe
+C:\Users\Onat ÖZÇELİK\Desktop\son\BarkodeProjectV2\obj\Debug\BarkodeProjectV2.pdb
